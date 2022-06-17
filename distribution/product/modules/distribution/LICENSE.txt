@@ -163,7 +163,7 @@ annogen_0.1.0.wso2v1.jar                                                        
 org.eclipse.equinox.ds_1.4.400.v20160226-2036.jar                                                   bundle         epl1
 org.wso2.carbon.pax-logging-log4j2-plugins_4.6.1.jar                                                bundle         apache2
 org.wso2.carbon.crypto.provider_1.1.9.jar                                                           bundle         apache2
-org.eclipse.jdt.core.compiler.batch_3.10.2.v20150120-1634.jar                                       bundle         epl1
+org.eclipse.jdt.core.compiler.batch_3.22.jar                                                        bundle         epl1
 org.wso2.carbon.feature.mgt.services_4.6.1.jar                                                      bundle         apache2
 xmlbeans_2.3.0.wso2v1.jar                                                                           bundle         apache2
 jdbc-pool_9.0.35.wso2v1.jar                                                                         bundle         apache2
